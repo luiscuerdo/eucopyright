@@ -1,23 +1,29 @@
 "Yes":
   de: Ja
   pl: Tak
+  es: Sí
 "No":
   de: Nein
   pl: Nie
+  es: No
 "No Opinion":
   de: Keine Meinung
   pl: Brak opinii
+  es: NS/NC
 title:
   en: Public Consultation on the review of the EU copyright rules
   de: Öffentliche Befragung zur Reform des Urheberrechts in der EU
   pl: Publiczne Konsultacje zmian w prawie autorskim UE
+  es: Consulta pública sobre la revisión de la normativa de copyright de la UE
 readmore:
   en: "Read more..."
   de: "Mehr..."
+  es: "Más información..."
 emailSubject:
   en: 'Public Consultation on the review of the EU copyright rules'
   de: 'Öffentliche Konsultation zur Überprüfung der Regeln zum EU-Urheberrecht'
   pl: 'Konsultacje społeczne dotyczące przeglądu zasad prawa autorskiego Unii Europejskiej'
+  es: 'Consulta pública sobre la revisión de la normativa de copyright de la UE'
 # Keep trailing spaces in the following!
 emailBody:
   pl: |
@@ -62,10 +68,29 @@ emailBody:
     
     Vielen Dank im Voraus!
     Mit freundlichen Grüßen
+  es: |
+    Hola {{ name }},
+    
+    Por favor, envia el siguiente email con el archivo adjunto a esta dirección: markt-copyright-consultation@ec.europa.eu .
+    
+    ¡Gracias por tu apoyo!
+    
+    Fixcopyright.eu
+   
+    ***
+    
+    Hola:
+    
+    Os adjunto mi respuesta a la consulta sobre copyright de la UE.
+    ¿Podrían confirmar la recepción de mi respuesta?
+    
+    Gracias por adelantado,
+    reciban un cordial saludo.
 emailName:
   en: 'user'
   de: 'Nutzer/in'
   pl: 'użytkownik/czka'
+  es: 'usuario'
 replyInLanguage:
   en: "Reply in English"
   de: "Antworte auf Deutsch"
